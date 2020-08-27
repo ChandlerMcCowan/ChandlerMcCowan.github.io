@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #E8D0D0;
 				}
 
 		#header > nav {
@@ -2809,7 +2809,7 @@ input, select, textarea {
 						#header > nav ul li a.active {
 							background: #fff;
 							color: #8F4A4A !important;
-							/* I want to try and change this to 8F4A4A, original: 8F4A4A */
+							/* I want to try and change this to 8F4A4A	*/
 						}
 
 					#header > nav ul li:first-child {
